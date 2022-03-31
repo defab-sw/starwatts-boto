@@ -33,7 +33,7 @@ mccabe==0.6.1
 memory-profiler==0.55.0
 more-itertools==5.0.0
 packaging==19.2
-paramiko==2.7.1
+paramiko==2.10.1
 pathlib2==2.3.5
 pdoc==0.3.2
 pep8==1.7.1
